@@ -25,7 +25,7 @@ void binarySearch(int data_array[], int element, int len)
         }
     }
     cout<<"Element Not Found"<<endl ;
-    return ; //number not found
+    return ; ////number not found
 }
 int main()
 {
